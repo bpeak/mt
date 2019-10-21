@@ -6,3 +6,5 @@ function print() {
 }
 
 const a = 3;
+
+const b = 123123123;
